@@ -7,13 +7,11 @@ Table of Contents
     Features
     Technologies Used
     Dataset
-    Installation
     Usage
     Model Training and Evaluation
     Results
     Future Scope
-    Contributing
-    License
+
 
 Introduction
 

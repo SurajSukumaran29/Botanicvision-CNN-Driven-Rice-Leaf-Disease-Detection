@@ -1,4 +1,4 @@
-BotanicVision: CNN-Driven Rice Leaf Disease Detection Using DenseNet201
+#BotanicVision: CNN-Driven Rice Leaf Disease Detection Using DenseNet201
 
 Welcome to BotanicVision, a state-of-the-art project aimed at identifying and classifying rice leaf diseases using convolutional neural networks (CNNs). This project leverages the DenseNet201 architecture for efficient and accurate disease detection to assist farmers and researchers in improving crop health management.
 Table of Contents
